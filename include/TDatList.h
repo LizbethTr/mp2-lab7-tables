@@ -1,6 +1,6 @@
 #ifndef __DATLIST_H
 #define __DATLIST_H
-#include "tdatlink.h"
+#include "TDatLink.h"
 
 enum TLinkPos { FIRST, CURRENT, LAST };
 
