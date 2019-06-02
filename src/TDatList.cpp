@@ -1,4 +1,4 @@
-#include "tdatlist.h"
+#include "TDatList.h"
 
 void TDatList::Reset()
 {
